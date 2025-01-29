@@ -18,3 +18,5 @@ dependencies:
   - conda-forge::python-dotenv==1.0.1
   - conda-forge::datasets==2.14.6
   - conda-forge::transformers==4.48.1
+  - conda-forge::accelerate==1.3.0
+  - conda-forge::sentence-transformers==3.4.0

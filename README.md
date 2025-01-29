@@ -17,22 +17,22 @@ You will also find one directory for each class. Inside, you will find an accomp
 
 **Secondary learning objectives**
 
-### Lecture 3 - Introduction to Generative Adversarial Networks ([Slides]())
+### Lecture 3 -  ([Slides]())
 
 **Main learning objectives**
 
 **Secondary learning objectives**
 
-### Lecture 4 - Generative Adversarial Networks assignment ([Slides]())
+### Lecture 4 -  ([Slides]())
 
-### Lecture 5 - Autoregressive text generation ([Slides]())
+### Lecture 5 -  ([Slides]())
 
 
 **Main learning objectives**
 
 **Secondary learning objectives**
 
-### Lecture 6 - Diffusion models ([Slides]())
+### Lecture 6 -  ([Slides]())
 
 ## Assignment: 
 
